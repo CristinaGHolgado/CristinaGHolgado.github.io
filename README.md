@@ -12,5 +12,5 @@ My research interests lie primarly in under-resourced and non-standardized langu
 
 # Publications
 - [IAI @ SocialDisNER : Catch me if you can! Capturing complex disease mentions in tweets](https://aclanthology.org/2022.smm4h-1.25) (Sinha et al., SMM4H 2022, )  
-- [Are Machine Learning Algorithms better for Author Profiling?] (https://ceur-ws.org/Vol-3202/politices-paper5.pdf)(Holgado et al., IberLEF 2022)
+- [Are Machine Learning Algorithms better for Author Profiling?](https://ceur-ws.org/Vol-3202/politices-paper5.pdf) (Holgado et al., IberLEF 2022)
 - [Évaluation de méthodes et d’outils pour la lemmatisation automatique du français médiéval (Evaluation of methods and tools for automatic lemmatization in Old French)](https://aclanthology.org/2021.jeptalnrecital-taln.14) (Holgado et al., TALN 2021)  
