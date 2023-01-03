@@ -7,7 +7,7 @@ My thesis focuses low-ressourced languages in the area of Natural Language Proce
 
 Earlier, I was a research engineer at Lattice lab (Paris), where I focused in syntactic parsing and lexicons whithin the [Profiterole](https://www.lattice.cnrs.fr/amp/projets/projets-passes/projets-anr/projet-anr-profiterole/) project. I joined the project during a master internship at the ATILF laboratory (Nancy) under the supervision of Matthieu Constant (University of Lorraine) and Alexey Lavrentiev (ENS Lyon). During that time, my work focused on the challenges of automatic lemmatization for an historical non-standardized language which is described in the following [article](https://aclanthology.org/2021.jeptalnrecital-taln.14/).
 
-My research interests lie primarly in under-resourced and non-standardized languages, both historical and contemporary. I am also interested in other areas such as automatic text simplification, on which I redirected my master thesis work, and the issue of fake news and political polarization.
+My research interests lie primarly in under-resourced and non-standardized languages, both historical and contemporary. I am also interested in other areas such as automatic text simplification, on which I wrote my master thesis, and the issue of fake news and political polarization.
 
 
 # Publications
