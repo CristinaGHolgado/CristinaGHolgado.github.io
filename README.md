@@ -1,9 +1,17 @@
 
 # About
 
-Hola! I'm Cristina and I'm currently a Research engineer (*ingénieure de recherche*) at the University of Poitiers where I have started a co-supervised thesis with Marianne Verget Couret (University of Poitiers) and Stella Retali-Medori (University of Corsica).
+Hola! I'm Cristina and I'm currently a Research engineer (*ingénieure de recherche*) at the University of Poitiers where I have started a co-supervised thesis with Marianne Vergez-Couret (University of Poitiers) and Stella Retali-Medori (University of Corsica).
 
-My thesis focuses low-ressourced languages in the area of Natural Language Processing. Specifically, poitevin-saintongeais and corsican. It is part of the [ANR DIVITAL](https://anr.fr/Project-ANR-17-CE23-0025) project, a projet aiming to provide rich linguistic resources and language technologies to several regional languages of France.
+My thesis focuses low-ressource languages and linguistic variation in the area of Natural Language Processing. Specifically, poitevin-saintongeais and corsican. It is part of the [ANR DIVITAL](https://anr.fr/Project-ANR-17-CE23-0025) project, a projet aiming to provide rich linguistic resources and language technologies to several regional languages of France.
+
+In parallel, I teach in the bachelor degree in Linguistics:
+
+- Lexicology (2nd year)/full
+- Language contact (2nd year)/full
+- Diachronic linguistics (3rd year)/full
+- Tools and data for linguists (1st year)/shared
+- Language policies (1st year)/shared
 
 Earlier, I was a research engineer at Lattice lab (Paris), where I focused in syntactic parsing and lexicons whithin the [Profiterole](https://www.lattice.cnrs.fr/amp/projets/projets-passes/projets-anr/projet-anr-profiterole/) project. I joined the project during a master internship at the ATILF laboratory (Nancy) under the supervision of Matthieu Constant (University of Lorraine) and Alexey Lavrentiev (ENS Lyon). During that time, my work focused on the challenges of automatic lemmatization for an historical non-standardized language which is described in the following [article](https://aclanthology.org/2021.jeptalnrecital-taln.14/).
 
