@@ -1,7 +1,7 @@
 
 # About
 
-Hola! I'm Cristina and I'm currently a Research engineer (*ingénieure de recherche*) at the University of Poitiers where I have started a co-supervised thesis with Marianne Vergez-Couret (University of Poitiers) and Stella Retali-Medori (University of Corsica).
+Hola! I'm Cristina and I'm currently a Research engineer (*ingénieure d'études*) at the University of Poitiers where I have started a co-supervised thesis with Marianne Vergez-Couret (University of Poitiers) and Stella Retali-Medori (University of Corsica).
 
 My thesis focuses low-ressource languages and linguistic variation in the area of Natural Language Processing. Specifically, poitevin-saintongeais and corsican. It is part of the [ANR DIVITAL](https://anr.fr/Project-ANR-17-CE23-0025) project, a projet aiming to provide rich linguistic resources and language technologies to several regional languages of France.
 
