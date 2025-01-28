@@ -1,7 +1,7 @@
 
 # 🐦 About
 
-Hola! I'm Cristina and I'm  a young research engineer at the University of Poitiers and a PhD student at the University of Corsica, under the supervision of Stella Retali-Medori (University of Corsica) and co-supervision of Marianne Vergez-Couret (University of Poitiers).
+Hola! I'm Cristina (for some Christine or Christina or Gracia Holdago) and I'm  a young research engineer at the University of Poitiers and a PhD student at the University of Corsica, under the supervision of Stella Retali-Medori (University of Corsica) and co-supervision of Marianne Vergez-Couret (University of Poitiers).
 
 My thesis focuses on low-resource languages and linguistic variation in the area of Natural Language Processing. In particular, for Corsican and Poitevin-Saintongeais, two regional languages of France. It is part of the [ANR DIVITAL](https://divital.gitpages.huma-num.fr/en/) project, a projet aiming to provide linguistic resources and support with language technologies to several regional languages of France, including Alsatian and Occitan.
 
