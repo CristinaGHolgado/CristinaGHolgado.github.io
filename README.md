@@ -1,3 +1,6 @@
+{% if site.google_site_verification %}
+<meta name="google-site-verification" content="{{ site.google_site_verification }}">
+{% endif %}
 
 # 🐦 About
 
