@@ -8,13 +8,7 @@ Earlier, I worked at Lattice (Paris), where I focused on syntactic parsing and l
 
 My research interests are primarily focused on low-resource and nonstandard languages, both from historical and contemporary perspectives. I am interested in other areas, such as automatic text simplification (the main subject of my master's thesis), as well as misinformation and political polarization.
 
-# 📝 Publications
-- [Empowering Low-Resource Regional Languages with Lexicons : A Comparative Study of NLP Tools for Morphosyntactic Analysis](https://aclanthology.org/2024.lrec-main.510/) (Holgado et al., 2024)
-- [More than just data : Dialectal variation and NLP resources for Corsican and Poitevin-Saintongeais](https://hal.science/hal-04396429/document) (Holgado, 2023)  
-- [Can LLMs be used to understand clinical notes better ?](https://hal.science/hal-04313917v1/) (Sinha et at., 2023)  
-- [Are Machine Learning Algorithms better for Author Profiling?](https://ceur-ws.org/Vol-3202/politices-paper5.pdf) (Holgado et al., IberLEF 2022)  
-- [IAI @ SocialDisNER : Catch me if you can! Capturing complex disease mentions in tweets](https://aclanthology.org/2022.smm4h-1.25) (Sinha et al., SMM4H 2022)   
-- [Évaluation de méthodes et d’outils pour la lemmatisation automatique du français médiéval (Evaluation of methods and tools for automatic lemmatization in Old French)](https://aclanthology.org/2021.jeptalnrecital-taln.14) (Holgado et al., TALN 2021)  
+## [> List of publications](https://scholar.google.com/citations?user=VhMNHyAAAAAJ&hl=es)
 
 
 ## Teachings
