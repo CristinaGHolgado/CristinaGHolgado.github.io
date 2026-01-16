@@ -1,4 +1,4 @@
-# 🐦 About
+# 🦜 About
 
 Hola! I'm Cristina (for some Christine or Christina or Gracia Holdago) and I'm  a young research engineer at the University of Poitiers and a PhD student at the University of Corsica, under the supervision of Stella Retali-Medori (University of Corsica) and co-supervision of Marianne Vergez-Couret (University of Poitiers).
 
