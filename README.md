@@ -8,6 +8,11 @@ Earlier, I worked at Lattice (Paris), where I focused on syntactic parsing and l
 
 My research interests are primarily focused on low-resource and nonstandard languages, both from historical and contemporary perspectives. I am interested in other areas, such as automatic text simplification (the main subject of my master's thesis), as well as misinformation and political polarization.
 
+## Research Interests
+- NLP for low-resource and historical languages
+- Corpus creation, annotation, and language resource development
+- Linguistic variation
+
 ## [> Full list of publications](https://scholar.google.com/citations?user=VhMNHyAAAAAJ&hl=es)
 
 
