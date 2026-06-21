@@ -27,8 +27,8 @@ Since 2023, I have been teaching in *Sciences du langage* (Linguistics) at the U
 **November 2024** — Oral presentation at the [ViGRamm](https://www.inshs.cnrs.fr/fr/cnrsinfo/le-projet-vigramm-la-grammaire-comme-vous-ne-lavez-jamais-vue) seminar, "L'analyse de la variation dialectale à l'ère de l'apprentissage automatique.", Corte, Corse, France  
 **July 2024** — Poster presentation at the [UniDive 2024 Summer School](https://unidive.lisn.upsaclay.fr/doku.php?id=meetingsdoku.php&id=meetings:other-events:1st_unidive_training_school), hosted by the [Technical University of Moldova](https://utm.md/en/blog/2024/07/27/unidive-summer-school-at-utm-opening-a-window-to-the-future/), "Beyond Standardization: Crafting a Comprehensive Annotated Corpus for Corsican and Poitevin-Saintongeais.", Chișinău, Moldova  
 **April 2024** — Participation in the [Autogramm](https://modyco.fr/projets/projet-autogramm-induction-de-grammaires-descriptives-a-partir-de-corpus-annotes/) training session, Paris, France  
-**February 2024** — Oral presentation at the AFIA Forum Industriel de l’IA ([FIIA 2024](https://afia.asso.fr/les-journees/fiia-2023/)): "Can LLMs be used to understand clinical notes better?", Paris, France 
-**Décember 2023** – Presentation « Corpus, approches et défis dans le Traitement Automatique de la variation dialectale du corse. », at a conference organized by LISA as part of its Digital Humanities seminar series, UMR CNRS LISA, PRISM & THALIM, Corte, University of Corsica   
+**February 2024** — Oral presentation at the AFIA Forum Industriel de l’IA ([FIIA 2024](https://afia.asso.fr/les-journees/fiia-2023/)): "Can LLMs be used to understand clinical notes better?", Paris, France  
+**December 2023** – Presentation « Corpus, approches et défis dans le Traitement Automatique de la variation dialectale du corse. », at a conference organized by LISA as part of its Digital Humanities seminar series, UMR CNRS LISA, PRISM & THALIM, Corte, University of Corsica   
 
 
 
